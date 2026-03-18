@@ -1,0 +1,25 @@
+{
+  "name": "com.unityessentials.diagnostics.toggleshortcut",
+  "version": "1.0.1",
+  "displayName": "Diagnostics ToggleShortcut",
+  "description": "This is a part of the UnityEssentials Ecosystem",
+  "unity": "6000.0",
+  "unityRelease": "",
+  "resolutionStrategy": "highestPatch",
+  "dependencies": {
+    "com.unity.inputsystem": "1.19.0",
+    "com.unityessentials.systems.runtimediscovery": "2.0.0",
+    "com.unityessentials.systems.singleton": "2.0.0"
+  },
+  "keywords": [],
+  "author": {
+    "name": "Unity Essentials",
+    "email": "",
+    "url": ""
+  },
+  "documentationUrl": "",
+  "changelogUrl": "",
+  "licensesUrl": "",
+  "samples": [],
+  "hideInEditor": true
+}

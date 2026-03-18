@@ -1,0 +1,18 @@
+{
+    "name": "UnityEssentials.Diagnostics.ToggleShortcut",
+    "rootNamespace": "UnityEssentials",
+    "references": [
+        "GUID:75469ad4d38634e559750d17036d5f7c",
+        "GUID:dec8fc344c4ac65a382ccf61a3d320fc",
+        "GUID:31005776ba0ea9c4bb2ee78cca2f6886"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
