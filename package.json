@@ -1,6 +1,6 @@
 {
   "name": "com.unityessentials.diagnostics.toggleshortcut",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "displayName": "Diagnostics ToggleShortcut",
   "description": "This is a part of the UnityEssentials Ecosystem",
   "unity": "6000.0",
